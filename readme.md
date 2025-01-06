@@ -81,3 +81,11 @@ Si no utilizas Docker, asegúrate de tener MongoDB configurado correctamente.
     La configuración de conexión a MongoDB se encuentra en el archivo settings.py bajo la variable MONGO_URI.
     Asegúrate de tener instalado pip para instalar las dependencias desde requirements.txt.
 
+
+### Imagenes referenciales de swagger
+
+<img width="1431" alt="imagen" src="https://github.com/user-attachments/assets/b1675616-6e88-4146-8647-2571773e8216" />
+<img width="1435" alt="imagen" src="https://github.com/user-attachments/assets/840eabec-6d8a-4b71-9099-a4594773ff12" />
+
+
+
